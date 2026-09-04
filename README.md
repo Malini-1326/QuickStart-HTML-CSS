@@ -53,7 +53,6 @@ You can also use the **Live Server** extension in Visual Studio Code.
 
 [View Live Website](https://malini-quickstart-app.netlify.app)
 
-> Replace `YOUR_NETLIFY_URL` with your actual Netlify website URL.
 
 ## 🎯 Objective
 
